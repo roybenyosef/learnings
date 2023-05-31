@@ -7,5 +7,12 @@
   * LangChain for LLM app dev
   * How Diffusion Models Work
 
+
 # Tutorials
 * Classic tutorial for image classification from scratch: https://keras.io/examples/vision/image_classification_from_scratch/
+
+
+# My Udemy Courses
+* Machine Learning, Data Science and Deep Learning with Python
+* Mathematical Foundations of Machine Learning
+* Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]
