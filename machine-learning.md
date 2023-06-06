@@ -9,6 +9,10 @@
   * LangChain for LLM app dev
   * How Diffusion Models Work
 
+* Prompt eng. 201: https://amatriain.net/blog/prompt201
+* interesting courses (ChatGPT, prompt eng., langchain, etc.): https://learn.deeplearning.ai/
+
+* Google gen ai learning path: https://www.cloudskillsboost.google/paths/118
 
 ## Tutorials
 * Classic tutorial for image classification from scratch: https://keras.io/examples/vision/image_classification_from_scratch/
