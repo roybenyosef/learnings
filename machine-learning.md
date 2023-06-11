@@ -1,7 +1,8 @@
 # Machine Learning Courses and Learning
 
 ## Courses
-* [To understand what's going on, Stanford's deep learning course](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) (20hrs~)
+* [To understand what's going on, Stanford's deep learning course on computer vision](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) (20hrs~)
+  * [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 * Good for devs: Pratical Deep Learning for Coders: https://course.fast.ai/ (~14hrs)
 * Introduction to Deep Learning (I2DL) (IN2346): https://niessner.github.io/I2DL/
 * GevAI Courses: https://www.linkedin.com/posts/andrewyng_thrilled-to-announce-3-new-generative-ai-activity-7069751645164765185-5rdB?utm_source=share&utm_medium=member_ios
