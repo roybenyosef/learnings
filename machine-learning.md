@@ -23,3 +23,7 @@
 * Machine Learning, Data Science and Deep Learning with Python
 * Mathematical Foundations of Machine Learning
 * Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]
+
+
+## Other resources
+* Probably too much: https://machinelearningmastery.com/start-here/
