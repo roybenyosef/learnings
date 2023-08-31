@@ -29,3 +29,4 @@ Start here: https://course.fast.ai/ - A free course designed for people with som
 
 ## Other resources
 * Probably too much: https://machinelearningmastery.com/start-here/
+* https://www.ai-jason.com/
