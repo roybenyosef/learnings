@@ -2,6 +2,9 @@
 
 Start here: https://course.fast.ai/ - A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
 
+## Conventions
+* GenML Conference 2023 - https://www.youtube.com/playlist?list=PL1FoIGqsXJ_DIF6awC9w7jSiKUSMJ70lq
+
 ## Courses
 * [To understand what's going on, Stanford's deep learning course on computer vision](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) (20hrs~)
   * [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
