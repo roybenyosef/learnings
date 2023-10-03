@@ -33,3 +33,7 @@ Start here: https://course.fast.ai/ - A free course designed for people with som
 ## Other resources
 * Probably too much: https://machinelearningmastery.com/start-here/
 * https://www.ai-jason.com/
+
+## LLM Free courses
+* https://www.deeplearning.ai/short-courses
+* https://www.deeplearning.ai/short-courses/pair-programming-llm/
