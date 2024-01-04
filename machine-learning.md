@@ -32,6 +32,7 @@
 ## Other resources
 * Probably too much: https://machinelearningmastery.com/start-here/
 * https://www.ai-jason.com/
+* computer vision (standford) - after I took some basic stuff - https://www.youtube.com/watch?v=vT1JzLTH4G4
 
 ## Conventions
 * GenML Conference 2023 - https://www.youtube.com/playlist?list=PL1FoIGqsXJ_DIF6awC9w7jSiKUSMJ70lq
